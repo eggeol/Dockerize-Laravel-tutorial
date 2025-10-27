@@ -1,4 +1,3 @@
-Perfect 🔥 here’s your **complete, copy-paste-ready 
 # 🐳 Dockerize Laravel — Quick Start Guide
 
 This repository contains a **Dockerized Laravel application** running with **PHP-FPM**, **Nginx**, **MySQL**, and **phpMyAdmin**.
