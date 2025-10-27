@@ -166,10 +166,5 @@ Happy coding 💻
 
 ```
 
----
-
-✅ Just paste this whole thing into your `README.md` file inside your GitHub repo  
-👉 [`https://github.com/eggeol/Dockerize-Laravel-tutorial`](https://github.com/eggeol/Dockerize-Laravel-tutorial)  
-
 It’s clean, complete, and ready for anyone to clone and run instantly.
 ```
