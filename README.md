@@ -26,7 +26,6 @@ laravel-testing/
 │   ├── app/Models/Item.php
 │   ├── app/Models/User.php
 │   └── ...
-└── .gitignore
 
 ````
 
