@@ -163,8 +163,3 @@ Your Laravel app is ready! 🎉
 * phpMyAdmin: [http://localhost:8080](http://localhost:8080)
 
 Happy coding 💻
-
-```
-
-It’s clean, complete, and ready for anyone to clone and run instantly.
-```
